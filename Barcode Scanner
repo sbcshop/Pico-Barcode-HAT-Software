@@ -39,7 +39,7 @@ def main():
     tft.text(font,"Barcode HAT", 0,0)
     #tft.rect(100, 100, 100, 10, st7789.RED)
     tft.fill_rect(0, 40, 240,10, st7789.RED)
-    utime.sleep(4)
+    #utime.sleep(4)
     tft.text(font,"Scan Barcode", 0,0)
     #tft.rect(100, 100, 100, 10, st7789.RED)
     tft.fill_rect(0, 40, 240,10, st7789.RED)
