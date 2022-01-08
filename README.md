@@ -21,7 +21,7 @@
   
 ## code part
 
-In the folder you see a file name ''' Barcode_Scanner_demo.py '''
+In the folder you see a file name " Barcode_Scanner_demo.py"
   
   
 
