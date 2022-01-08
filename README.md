@@ -10,7 +10,7 @@
   
   * Other mode is to chnage the boud rate (9600), for this you need to scan below barcode by pressing scan button on pico barcode hat
   
-  <img src=  />
+  <img src= https://github.com/sbcshop/Pico-Barcode-HAT/blob/main/images/img_baud_rate_9600.JPG />
   
   
   
