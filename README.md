@@ -20,11 +20,9 @@
   
   
 ## code part
-
-In the folder you see a file name "Barcode_Scanner_demo.py", run this file ,this is demo code. from this code you easily understand the working of this module.using this basic code you make many applications, one of the application i mention in that folder, folder name is "smart attendance system". when you open this folder you see three file
-  *
-  *
-  *
+   * In the folder you see a file name "Barcode_Scanner_demo.py", run this file ,this is demo code. from this code you easily understand the working of this module.using this          basic code you make many applications
+   * One of the application i mention in that folder, folder name is "smart attendance system". when you open this folder you see three file
+     * d
   
   
 
