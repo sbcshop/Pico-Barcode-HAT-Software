@@ -4,4 +4,4 @@
 
 ## Setup Pico Barcode Hat
 * First you need to change the mode of the pico barcode hat to serial communication interface 
- * a
+  * a
