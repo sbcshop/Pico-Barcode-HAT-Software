@@ -4,8 +4,7 @@ import utime
 import st7789
 import vga1_bold_16x32 as font
 
-uart = UART(0, baudrate=9600,
-                    bits=8, parity=None, stop=1)
+uart = UART(0, baudrate=9600,bits=8, parity=None, stop=1)
 
 print(uart)
 utime.sleep(1)
@@ -30,9 +29,8 @@ def wait_resp_info(timeout=2000):
             info = b"".join([info, uart.read(1)])
     print(info.decode())
     return info
-def main():
-    
-
+   
+def main():  
     tft.init()
     utime.sleep(0.5)
    
@@ -44,13 +42,10 @@ def main():
     #tft.rect(100, 100, 100, 10, st7789.RED)
     tft.fill_rect(0, 40, 240,10, st7789.RED)
     
-    
-
-
 utime.sleep(2)
 main()
 while 1:
-  #  uart.write(scan)
+  # uart.write(scan) #uncomment this line for continous scan without pressing scan button on pico barcode hat
     data=uart.read(14)
     
     if data:
