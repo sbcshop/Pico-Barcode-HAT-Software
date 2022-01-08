@@ -27,9 +27,11 @@
    * In the folder you see a file name "Barcode_Scanner_demo.py", run this file ,this is demo code. from this code you easily understand the working of this module.using this          basic code you make many applications
    
    * One of the application i mention in that folder, folder name is "smart attendance system". when you open this folder you see three file
-     * employee.py
-     * main.py
-     * servo_control.py
+     * employee.py (file you need to enter the employee name and the barcode of that employee (it is like database ))
+     * main.py (file you need to run (this is main file ))
+     * servo_control.py ( this file is controll the servo motor )
+     
+   * Save the three files in the pico, "main.py" file is automatically run when you give power to pico 
   
   
 
