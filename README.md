@@ -8,7 +8,7 @@
   * Connect USB to pico barcode hat then scan the below image
   <img src= https://github.com/sbcshop/Pico-Barcode-HAT/blob/main/images/img3.jpg />
   
- <img src= https://github.com/sbcshop/Pico-Barcode-HAT/blob/main/images/TTL_RS232.jpg />
+ <img src= https://github.com/sbcshop/Pico-Barcode-HAT/blob/main/images/TTL_RS232.JPG />
 
   
    
