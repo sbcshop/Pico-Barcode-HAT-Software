@@ -21,7 +21,7 @@
   
 ## code part
 
-In the folder you see a file name " Barcode_Scanner_demo.py"
+In the folder you see a file name "Barcode_Scanner_demo.py", run this file this is demo code, you see that how this hat work, 
   
   
 
