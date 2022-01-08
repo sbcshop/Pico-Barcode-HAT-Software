@@ -18,8 +18,12 @@
 
 <img src="https://github.com/sbcshop/Raspberry-Pi-Pico-RFID-Expansion/blob/main/images/thonny-interpreter.PNG" />
   
-  
+   
 ## code part
+   * In the folder you see two file one is "st7789.py" and other is "firmware.uf2"
+      * Save the "st7789.py" file in the pico ( this is the lcd library file )
+      * For second file "firmware.uf2" do this ,Before raspberry pico connect to laptop, press the boot button of the pico then connect to laptop, you see new device. then drag         this file to the pico folder
+     
    * In the folder you see a file name "Barcode_Scanner_demo.py", run this file ,this is demo code. from this code you easily understand the working of this module.using this          basic code you make many applications
    * One of the application i mention in that folder, folder name is "smart attendance system". when you open this folder you see three file
      * employee.py
