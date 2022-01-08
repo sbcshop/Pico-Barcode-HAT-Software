@@ -25,6 +25,7 @@
       * For second file "firmware.uf2" do this ,Before raspberry pico connect to laptop, press the boot button of the pico then connect to laptop, you see new device. then drag         this file to the pico folder
      
    * In the folder you see a file name "Barcode_Scanner_demo.py", run this file ,this is demo code. from this code you easily understand the working of this module.using this          basic code you make many applications
+   
    * One of the application i mention in that folder, folder name is "smart attendance system". when you open this folder you see three file
      * employee.py
      * main.py
