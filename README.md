@@ -19,6 +19,8 @@
 <img src="https://github.com/sbcshop/Raspberry-Pi-Pico-RFID-Expansion/blob/main/images/thonny-interpreter.PNG" />
   
   
+## code part
+  
   
 
   
