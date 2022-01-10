@@ -32,3 +32,5 @@
      * servo_control.py ( this file controls the servo motor )
      
    * Save the three files in the pico, "main.py" file is automatically run when you give power to pico
+
+### <a href="https://learn.sb-components.co.uk/Pico-Barcode-HAT" > Pico Barcode HAT Wiki Portal </a>
