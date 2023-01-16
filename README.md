@@ -1,4 +1,8 @@
 # Pico-Barcode-HAT
+
+<img src ="https://cdn.shopify.com/s/files/1/1217/2104/files/Pico_Barcode_HAT.png?v=1665148529" />
+
+
 Barcode HAT for Pico is a robust and compact barcode scanner board that consists of DE2120 scanner module, buzzer, 1.14” LCD screen, micro-USB port. It is designed to scan 20 different barcode symbologies in the segment of both 1D and 2D symbology like barcodes and QR codes
 
 <img src= https://github.com/sbcshop/Pico-Barcode-HAT/blob/main/images/img1.jpg />
